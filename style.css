@@ -1,0 +1,37 @@
+.container{
+    width: 40rem;
+    height: 25rem;
+    border: solid black 1px;
+}
+.sub-container{
+    display: grid;
+    grid-template-columns: 4fr 4fr 4fr;  
+    text-align: center;
+    padding: 1rem;
+    margin: 1rem;
+    border: solid black 1px;
+}
+.col{
+    display: grid;
+    grid-template-rows: 1fr 1fr;
+    padding: 1rem;
+    margin: 1rem;
+    border: solid rgb(141, 27, 27) 1px;
+}
+.button-row{
+    display: flex;
+    justify-content: space-between; 
+    border: solid black 1px;
+}
+.draw{
+    color:  blue;
+    background-color: white;
+}
+.winner{
+    color: black;
+    background-color: greenyellow;
+}
+.loser{
+    color: black;
+    background-color: red;
+}
