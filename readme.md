@@ -7,7 +7,7 @@
 
 - 👨‍💻 Rock Paper Scissor Game is available at [https://mhkaaniche.github.io/RockPaperScissors/](https://mhkaaniche.github.io/RockPaperScissors/)
 
-- 👾 you can watch me coding this game at [https://studio.youtube.com/video/poboOXk7BWk/edit](https://studio.youtube.com/video/poboOXk7BWk/edit)  
+- 👾 you can watch me coding this game at [https://www.youtube.com/watch?v=poboOXk7BWk&t=58s](https://www.youtube.com/watch?v=poboOXk7BWk&t=58s)  
 
 - 📫 How to reach me **mhkaaniche@gmail.com**
 
