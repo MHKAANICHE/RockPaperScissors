@@ -5,9 +5,12 @@
 
 - 🌱 I’m currently learning **MERN, JAVASCRIPT and PYTHON**
 
-- 👨‍💻 Memory Game is available at [https://mhkaaniche.github.io/RockPaperScissors/](https://mhkaaniche.github.io/RockPaperScissors/)
+- 👨‍💻 Rock Paper Scissor Game is available at [https://mhkaaniche.github.io/RockPaperScissors/](https://mhkaaniche.github.io/RockPaperScissors/)
+
+- 👾 you can watch me coding this game at [https://studio.youtube.com/video/poboOXk7BWk/edit](https://studio.youtube.com/video/poboOXk7BWk/edit)  
 
 - 📫 How to reach me **mhkaaniche@gmail.com**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
